@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(#1d4520, 1%, #c9fdcd);
+}
+
+.get-search {
+  margin-top: 15%;
+  border: 3px solid #1d4520;
+  box-shadow: 4px 4px 4px #2b6630a0;
+}
